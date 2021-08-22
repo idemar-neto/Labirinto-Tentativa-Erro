@@ -12,9 +12,9 @@ Esse programa tem a funcionalidade de achar caminhos possíveis de um labirinto 
 
 A execução desse programa é dada pelos comandos:
 
-```javac Lab.java (Para a compilar)```
+```javac Lab.java 										(Para a compilar)```
 
-```java Lab [Nome do Arquivo].txt [Número do critério] (Para executar)```
+```java Lab [Nome do Arquivo].txt [Número do critério] 	(Para executar)```
 
 
 OBS: vale ressaltar que por ser um programa que utiliza recursividade, há a possibilidade de _StackOverflow_, para contornar pode-se executar a seguinte linha:
