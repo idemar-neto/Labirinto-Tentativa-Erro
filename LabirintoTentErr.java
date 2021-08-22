@@ -294,7 +294,7 @@ class Solucao {
 }
 
 
-public class EP2 {
+public class LabirintoTentErr {
 
 	public static final boolean DEBUG = false;
 
